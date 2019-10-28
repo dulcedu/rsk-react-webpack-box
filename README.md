@@ -2,12 +2,18 @@
 
 ## Description
 
-In this box you'll find a basic starter pack. It includes Truffle, React and Webpack.
-The the app was created with create-react-app and it can be customized with customize-cra.
+In this box you'll find a basic starter pack to create your first decentralize app with RSK. It includes Truffle, React and Webpack.
+The the dApp was created with create-react-app and it can be customized with customize-cra.
 
 This starter contains two main elements
 - Truffle framework 
 - React App (located at `app/` folder)
+ 
+## Pre requisite 
+1) Install node or update
+      Install node      https://nodejs.org/en/download/
+      Update node       npm update
+Suggestion, I used Github destop with VSC, Visual Studio Code. 
 
 ## Unboxing
 
